@@ -11,10 +11,10 @@ The goal of this study is to bridge the gap between raw meteorological observati
 ### 1. Atmospheric Dynamics & Wind Patterns
 We utilized polar bar plots (Wind Roses) to identify dominant wind regimes and thermodynamic profiles to correlate air temperature with relative humidity.
 
-![Wind Rose](images/wind-rose-kumpula.png)
+![Wind Rose](images/wind-rose-fmi.png)
 *Figure 1: Dominant wind directions and speed distribution at Kumpula station.*
 
-![Thermodynamic Profile](images/thermodynamic-profile.png)
+![Thermodynamic Profile](images/thermodynamic-profile-helsinki.png)
 *Figure 2: Surface thermodynamic coupling (Temperature vs. Relative Humidity).*
 
 ### 2. Predictive Performance (Nowcasting)
